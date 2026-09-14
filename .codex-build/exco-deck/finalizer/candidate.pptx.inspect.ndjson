@@ -1,0 +1,272 @@
+{"kind":"deck","id":"pr/j9ggb4","name":"Deck"}
+{"kind":"layout","layoutId":"d7aa35a5-e524-4d1a-a50a-6eed22305dd1","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"26c612e4-d94c-4218-ab8c-c38e2c2ed09a","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/0tpaqk","slide":1,"title":"YOGA CLUB SOCIETY","textShapes":4}
+{"kind":"shape","id":"sh/x0ji98b6","slide":1,"name":"left-accent","bbox":[0,0,46,1080]}
+{"kind":"shape","id":"sh/m98jutsj","slide":1,"name":"cover-field","bbox":[1250,0,670,1080]}
+{"kind":"textbox","id":"sh/8ba1w3a9","slide":1,"text":"YOGA CLUB SOCIETY","textPreview":"YOGA CLUB SOCIETY","textChars":17,"textLines":1,"bbox":[120,118,830,55]}
+{"kind":"textbox","id":"sh/9cji58bu","slide":1,"name":"cover-title","text":"EXCO MEETING\nAGENDA","textPreview":"EXCO MEETING | AGENDA","textChars":19,"textLines":2,"bbox":[118,220,1000,235]}
+{"kind":"shape","id":"sh/65cj6xsn","slide":1,"name":"cover-rule","bbox":[120,482,175,9]}
+{"kind":"textbox","id":"sh/76lkf298","slide":1,"text":"Friday, 11 September 2026\n7:00 p.m.  ·  Google Meet","textPreview":"Friday, 11 September 2026 | 7:00 p.m.  ·  Google Meet","textChars":51,"textLines":2,"bbox":[120,535,890,120]}
+{"kind":"textbox","id":"sh/36h47m1g","slide":1,"text":"SUNGAI LONG CAMPUS","textPreview":"SUNGAI LONG CAMPUS","textChars":18,"textLines":1,"bbox":[120,900,520,45]}
+{"kind":"image","id":"im/etsb6hgn","slide":1,"name":"","geometry":"rect","alt":"Visual from the supplied reference presentation","bbox":[0,0,1920,1080]}
+{"kind":"image","id":"im/1wju1wzy","slide":1,"name":"","geometry":"rect","alt":"Visual from the supplied reference presentation","bbox":[1430,-40,560,560]}
+{"kind":"image","id":"im/mxsva1gj","slide":1,"name":"","geometry":"rect","alt":"Visual from the supplied reference presentation","bbox":[1390,205,360,360]}
+{"kind":"notes","id":"nt/0tpaqk","slide":1,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, meeting header. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}
+{"kind":"slide","id":"sl/sm1tci","slide":2,"title":"UTAR SL YOGA CLUB","textShapes":17}
+{"kind":"shape","id":"sh/cjidk7ut","slide":2,"name":"club-label-band","bbox":[137,41,255,42]}
+{"kind":"textbox","id":"sh/dkretcbe","slide":2,"name":"club-label","text":"UTAR SL YOGA CLUB","textPreview":"UTAR SL YOGA CLUB","textChars":17,"textLines":1,"bbox":[157,45,220,30]}
+{"kind":"textbox","id":"sh/qh0vixc3","slide":2,"name":"section-number","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1650,46,90,32]}
+{"kind":"textbox","id":"sh/ri9wr2t8","slide":2,"name":"slide-title","text":"Decisions required at this meeting","textPreview":"Decisions required at this meeting","textChars":34,"textLines":1,"bbox":[110,120,1560,105]}
+{"kind":"shape","id":"sh/0nixo7u5","slide":2,"name":"title-rule","bbox":[110,222,118,8]}
+{"kind":"textbox","id":"sh/1obexcbq","slide":2,"name":"footer-source","text":"EXCO MEETING  •  11 SEPTEMBER 2026","textPreview":"EXCO MEETING  •  11 SEPTEMBER 2026","textChars":34,"textLines":1,"bbox":[110,1012,620,28]}
+{"kind":"textbox","id":"sh/xknqhsby","slide":2,"name":"folio","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[1774,1010,52,28]}
+{"kind":"textbox","id":"sh/cjep8nad","slide":2,"text":"PROGRAMME","textPreview":"PROGRAMME","textChars":9,"textLines":1,"bbox":[110,290,310,38]}
+{"kind":"textbox","id":"sh/bi58fits","slide":2,"text":"Confirm compulsory activities and select the proposed trials for the next semester.","textPreview":"Confirm compulsory activities and select the proposed trials for the next semester.","textChars":83,"textLines":1,"bbox":[420,288,1180,62]}
+{"kind":"textbox","id":"sh/ahw76ds7","slide":2,"text":"OCTOBER RD","textPreview":"OCTOBER RD","textChars":10,"textLines":1,"bbox":[110,405,310,38]}
+{"kind":"textbox","id":"sh/lo7qlsba","slide":2,"text":"Approve the promotion offer, Members’ Night link and Vice Treasurer recruitment message.","textPreview":"Approve the promotion offer, Members’ Night link and Vice Treasurer recruitment message.","textChars":88,"textLines":1,"bbox":[420,403,1180,62]}
+{"kind":"textbox","id":"sh/knypcnap","slide":2,"text":"GOVERNANCE","textPreview":"GOVERNANCE","textChars":10,"textLines":1,"bbox":[110,520,310,38]}
+{"kind":"textbox","id":"sh/zm58j2t4","slide":2,"text":"Agree proposal, reporting, finance, attendance and publicity controls.","textPreview":"Agree proposal, reporting, finance, attendance and publicity controls.","textChars":70,"textLines":1,"bbox":[420,518,1180,62]}
+{"kind":"textbox","id":"sh/ylw7axsj","slide":2,"text":"PEOPLE","textPreview":"PEOPLE","textChars":6,"textLines":1,"bbox":[110,635,310,38]}
+{"kind":"textbox","id":"sh/1s3698bq","slide":2,"text":"Confirm certification rules, signatories and committee recruitment priorities.","textPreview":"Confirm certification rules, signatories and committee recruitment priorities.","textChars":78,"textLines":1,"bbox":[420,633,1180,62]}
+{"kind":"textbox","id":"sh/0rup03a5","slide":2,"text":"RESOURCES","textPreview":"RESOURCES","textChars":9,"textLines":1,"bbox":[110,750,310,38]}
+{"kind":"textbox","id":"sh/s7ihc7md","slide":2,"text":"Shortlist merchandise and determine which activities require budget approval.","textPreview":"Shortlist merchandise and determine which activities require budget approval.","textChars":77,"textLines":1,"bbox":[420,748,1180,62]}
+{"kind":"textbox","id":"sh/d8ry5cny","slide":2,"text":"Meeting discipline","textPreview":"Meeting discipline","textChars":18,"textLines":1,"bbox":[1180,825,390,40]}
+{"kind":"textbox","id":"sh/qlgzax47","slide":2,"text":"Record every decision with an owner and due date before the meeting closes.","textPreview":"Record every decision with an owner and due date before the meeting closes.","textChars":75,"textLines":1,"bbox":[1180,875,520,82]}
+{"kind":"image","id":"im/wny5ory9","slide":2,"name":"","geometry":"rect","alt":"Subtle white geometric background from the supplied reference presentation","bbox":[0,0,1920,1080]}
+{"kind":"image","id":"im/bmpofmho","slide":2,"name":"","geometry":"rect","alt":"Warm dotted texture from the supplied reference presentation","bbox":[1600,790,330,330]}
+{"kind":"image","id":"im/algnm1g3","slide":2,"name":"","geometry":"rect","alt":"UTAR Yoga Society logo from the supplied reference presentation","bbox":[45,25,78,78]}
+{"kind":"notes","id":"nt/sm1tci","slide":2,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, overview of Items 1–12. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}
+{"kind":"slide","id":"sl/uq0c1f","slide":3,"title":"UTAR SL YOGA CLUB","textShapes":11}
+{"kind":"shape","id":"sh/72pkjq14","slide":3,"name":"club-label-band","bbox":[137,41,255,42]}
+{"kind":"textbox","id":"sh/6hgjalkj","slide":3,"name":"club-label","text":"UTAR SL YOGA CLUB","textPreview":"UTAR SL YOGA CLUB","textChars":17,"textLines":1,"bbox":[157,45,220,30]}
+{"kind":"textbox","id":"sh/t4r2l0ju","slide":3,"name":"section-number","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1650,46,90,32]}
+{"kind":"textbox","id":"sh/83i1cv2p","slide":3,"name":"slide-title","text":"Next semester activity plan","textPreview":"Next semester activity plan","textChars":27,"textLines":1,"bbox":[110,120,1560,105]}
+{"kind":"shape","id":"sh/jepkfq1s","slide":3,"name":"title-rule","bbox":[110,222,118,8]}
+{"kind":"textbox","id":"sh/ydgj6lk7","slide":3,"name":"footer-source","text":"EXCO MEETING  •  11 SEPTEMBER 2026","textPreview":"EXCO MEETING  •  11 SEPTEMBER 2026","textChars":34,"textLines":1,"bbox":[110,1012,620,28]}
+{"kind":"textbox","id":"sh/cjipof65","slide":3,"name":"folio","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1774,1010,52,28]}
+{"kind":"textbox","id":"sh/dkrqx0nq","slide":3,"text":"COMPULSORY PROGRAMME","textPreview":"COMPULSORY PROGRAMME","textChars":20,"textLines":1,"bbox":[110,280,650,40]}
+{"kind":"textbox","id":"sh/qxg7m5oz","slide":3,"text":"Recruitment Drive\nWeekly yoga classes\nFree yoga classes","textPreview":"Recruitment Drive | Weekly yoga classes | Free yoga classes","textChars":55,"textLines":3,"bbox":[110,335,690,260]}
+{"kind":"textbox","id":"sh/bi98vapk","slide":3,"text":"OPTIONS FOR REVIEW","textPreview":"OPTIONS FOR REVIEW","textChars":18,"textLines":1,"bbox":[110,645,650,40]}
+{"kind":"textbox","id":"sh/ovypkv69","slide":3,"text":"Members’ Night as a reward for regular participants\nOne or two meditation sessions, free or paid\nNatural Yoga pilot next semester or from February 2027","textPreview":"Members’ Night as a reward for regular participants | One or two meditation sessions, free or paid | Natural Yoga pilot next semester or ...","textChars":151,"textLines":3,"bbox":[110,700,920,255]}
+{"kind":"textbox","id":"sh/2tg7ilo3","slide":3,"text":"6–8","textPreview":"6–8","textChars":3,"textLines":1,"bbox":[1205,825,170,75]}
+{"kind":"textbox","id":"sh/3up8rqpo","slide":3,"text":"additional practical sessions during a long semester, scheduled around common free hours and certification needs","textPreview":"additional practical sessions during a long semester, scheduled around common free hours and certification needs","textChars":112,"textLines":1,"bbox":[1370,824,420,130]}
+{"kind":"image","id":"im/jaxcnm9k","slide":3,"name":"","geometry":"rect","alt":"Subtle white geometric background from the supplied reference presentation","bbox":[0,0,1920,1080]}
+{"kind":"image","id":"im/kb6dgrq5","slide":3,"name":"","geometry":"rect","alt":"Warm dotted texture from the supplied reference presentation","bbox":[1600,790,330,330]}
+{"kind":"image","id":"im/lwfupwrq","slide":3,"name":"","geometry":"rect","alt":"UTAR Yoga Society logo from the supplied reference presentation","bbox":[45,25,78,78]}
+{"kind":"image","id":"im/m9kva90z","slide":3,"name":"","geometry":"ellipse","alt":"Group yoga class image from the supplied reference presentation","bbox":[1160,280,620,500]}
+{"kind":"notes","id":"nt/uq0c1f","slide":3,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, Item 1. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}
+{"kind":"slide","id":"sl/pamaun","slide":4,"title":"UTAR SL YOGA CLUB","textShapes":9}
+{"kind":"shape","id":"sh/9sfel87a","slide":4,"name":"club-label-band","bbox":[137,41,255,42]}
+{"kind":"textbox","id":"sh/8r6dcn6p","slide":4,"name":"club-label","text":"UTAR SL YOGA CLUB","textPreview":"UTAR SL YOGA CLUB","textChars":17,"textLines":1,"bbox":[157,45,220,30]}
+{"kind":"textbox","id":"sh/nqdwjipk","slide":4,"name":"section-number","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1650,46,90,32]}
+{"kind":"textbox","id":"sh/mp4vadoz","slide":4,"name":"slide-title","text":"October Recruitment Drive","textPreview":"October Recruitment Drive","textChars":25,"textLines":1,"bbox":[110,120,1560,105]}
+{"kind":"shape","id":"sh/xwfepsnm","slide":4,"name":"title-rule","bbox":[110,222,118,8]}
+{"kind":"textbox","id":"sh/wv6dgn61","slide":4,"name":"footer-source","text":"EXCO MEETING  •  11 SEPTEMBER 2026","textPreview":"EXCO MEETING  •  11 SEPTEMBER 2026","textChars":34,"textLines":1,"bbox":[110,1012,620,28]}
+{"kind":"textbox","id":"sh/udkb2tgr","slide":4,"name":"folio","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[1774,1010,52,28]}
+{"kind":"textbox","id":"sh/gf2t43yh","slide":4,"text":"PROMOTION CONTENT","textPreview":"PROMOTION CONTENT","textChars":17,"textLines":1,"bbox":[110,280,650,40]}
+{"kind":"textbox","id":"sh/hgbax8f2","slide":4,"text":"Club merchandise and lucky draw\nWeekly-class certification\nMembers’ Night after the October free class, if confirmed","textPreview":"Club merchandise and lucky draw | Weekly-class certification | Members’ Night after the October free class, if confirmed","textChars":116,"textLines":3,"bbox":[110,335,890,260]}
+{"kind":"textbox","id":"sh/2hkb6dgn","slide":4,"text":"OFFERS AND RECRUITMENT","textPreview":"OFFERS AND RECRUITMENT","textChars":22,"textLines":1,"bbox":[110,640,650,40]}
+{"kind":"textbox","id":"sh/3itszyx8","slide":4,"text":"Review a free first class for first-time participants\nReview fee waivers for members who bring new participants\nRecruit the vacant Vice Treasurer during the drive\nCollect participant and member feedback after the activity","textPreview":"Review a free first class for first-time participants | Review fee waivers for members who bring new participants | Recruit the vacant Vi...","textChars":221,"textLines":4,"bbox":[110,695,930,265]}
+{"kind":"image","id":"im/tc3upgb2","slide":4,"name":"","geometry":"rect","alt":"Subtle white geometric background from the supplied reference presentation","bbox":[0,0,1920,1080]}
+{"kind":"image","id":"im/6pcbelcr","slide":4,"name":"","geometry":"rect","alt":"Warm dotted texture from the supplied reference presentation","bbox":[1600,790,330,330]}
+{"kind":"image","id":"im/rqlcn6tc","slide":4,"name":"","geometry":"rect","alt":"UTAR Yoga Society logo from the supplied reference presentation","bbox":[45,25,78,78]}
+{"kind":"image","id":"im/03610b2x","slide":4,"name":"","geometry":"roundRect","alt":"Yoga recruitment illustration from the supplied reference presentation","bbox":[1150,265,650,610]}
+{"kind":"notes","id":"nt/pamaun","slide":4,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, Item 2. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}
+{"kind":"slide","id":"sl/714x0h","slide":5,"title":"UTAR SL YOGA CLUB","textShapes":11}
+{"kind":"shape","id":"sh/nq9kvuh8","slide":5,"name":"club-label-band","bbox":[137,41,255,42]}
+{"kind":"textbox","id":"sh/mp0j2pg3","slide":5,"name":"club-label","text":"UTAR SL YOGA CLUB","textPreview":"UTAR SL YOGA CLUB","textChars":17,"textLines":1,"bbox":[157,45,220,30]}
+{"kind":"textbox","id":"sh/9sb2x4ze","slide":5,"name":"section-number","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1650,46,90,32]}
+{"kind":"textbox","id":"sh/8ri14zyt","slide":5,"name":"slide-title","text":"Secretarial deliverables and records","textPreview":"Secretarial deliverables and records","textChars":36,"textLines":1,"bbox":[110,120,1560,105]}
+{"kind":"shape","id":"sh/vutkzuhk","slide":5,"name":"title-rule","bbox":[110,222,118,8]}
+{"kind":"textbox","id":"sh/atkj6pgz","slide":5,"name":"footer-source","text":"EXCO MEETING  •  11 SEPTEMBER 2026","textPreview":"EXCO MEETING  •  11 SEPTEMBER 2026","textChars":34,"textLines":1,"bbox":[110,1012,620,28]}
+{"kind":"textbox","id":"sh/4f2h0ba9","slide":5,"name":"folio","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[1774,1010,52,28]}
+{"kind":"textbox","id":"sh/5gbytwre","slide":5,"text":"BEFORE EACH ACTIVITY","textPreview":"BEFORE EACH ACTIVITY","textChars":20,"textLines":1,"bbox":[110,275,650,40]}
+{"kind":"textbox","id":"sh/idkzy1s3","slide":5,"text":"Prepare one proposal for every activity where required\nCover objectives, schedule, venue, budget, publicity, registration and approvals\nSubmit before the activity and within the required timeline","textPreview":"Prepare one proposal for every activity where required | Cover objectives, schedule, venue, budget, publicity, registration and approvals...","textChars":195,"textLines":3,"bbox":[110,330,820,300]}
+{"kind":"textbox","id":"sh/jetgr69o","slide":5,"text":"BY WEEK 14","textPreview":"BY WEEK 14","textChars":10,"textLines":1,"bbox":[110,665,650,40]}
+{"kind":"textbox","id":"sh/sjmh4ba5","slide":5,"text":"Complete reports for weekly classes, the Recruitment Drive, both EXCO meetings and the free yoga class\nInclude Office Bearers and any other reportable activities or matters","textPreview":"Complete reports for weekly classes, the Recruitment Drive, both EXCO meetings and the free yoga class | Include Office Bearers and any o...","textChars":172,"textLines":2,"bbox":[110,720,850,220]}
+{"kind":"textbox","id":"sh/qhkz21sz","slide":5,"text":"CONTROL RECORD","textPreview":"CONTROL RECORD","textChars":14,"textLines":1,"bbox":[1120,705,480,40]}
+{"kind":"textbox","id":"sh/ritgv69k","slide":5,"text":"Maintain a completed and outstanding checklist\nRecord student coach service hours and attendance\nReview whether the club website can support traceability","textPreview":"Maintain a completed and outstanding checklist | Record student coach service hours and attendance | Review whether the club website can ...","textChars":153,"textLines":3,"bbox":[1120,755,620,210]}
+{"kind":"image","id":"im/jitg7yp8","slide":5,"name":"","geometry":"rect","alt":"Subtle white geometric background from the supplied reference presentation","bbox":[0,0,1920,1080]}
+{"kind":"image","id":"im/kj2hg3qd","slide":5,"name":"","geometry":"rect","alt":"Warm dotted texture from the supplied reference presentation","bbox":[1600,790,330,330]}
+{"kind":"image","id":"im/5kby987y","slide":5,"name":"","geometry":"rect","alt":"UTAR Yoga Society logo from the supplied reference presentation","bbox":[45,25,78,78]}
+{"kind":"image","id":"im/yp4vaxo3","slide":5,"name":"","geometry":"roundRect","alt":"Certificate records shown in the supplied reference presentation","bbox":[1120,270,650,390]}
+{"kind":"notes","id":"nt/714x0h","slide":5,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, Item 3; obvious source typo ‘Office Barriers’ normalised to ‘Office Bearers’. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}
+{"kind":"slide","id":"sl/8979dm","slide":6,"title":"UTAR SL YOGA CLUB","textShapes":6}
+{"kind":"shape","id":"sh/bmd4z6x4","slide":6,"name":"club-label-band","bbox":[137,41,255,42]}
+{"kind":"textbox","id":"sh/qlk361gj","slide":6,"name":"club-label","text":"UTAR SL YOGA CLUB","textPreview":"UTAR SL YOGA CLUB","textChars":17,"textLines":1,"bbox":[157,45,220,30]}
+{"kind":"textbox","id":"sh/dovm1gfa","slide":6,"name":"section-number","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1650,46,90,32]}
+{"kind":"textbox","id":"sh/cnml8byp","slide":6,"name":"slide-title","text":"Treasury policy and documentation","textPreview":"Treasury policy and documentation","textChars":33,"textLines":1,"bbox":[110,120,1560,105]}
+{"kind":"shape","id":"sh/3ytkv6x8","slide":6,"name":"title-rule","bbox":[110,222,118,8]}
+{"kind":"textbox","id":"sh/2xk321gn","slide":6,"name":"footer-source","text":"EXCO MEETING  •  11 SEPTEMBER 2026","textPreview":"EXCO MEETING  •  11 SEPTEMBER 2026","textChars":34,"textLines":1,"bbox":[110,1012,620,28]}
+{"kind":"textbox","id":"sh/kzqho7m1","slide":6,"name":"folio","text":"6","textPreview":"6","textChars":1,"textLines":1,"bbox":[1774,1010,52,28]}
+{"kind":"textbox","id":"sh/ix8zmx4v","slide":6,"text":"Establish a treasury policy and supporting documentation for every event\nMaintain complete financial records for events and weekly classes\nPass confirmed financial arrangements to the Secretary and Publicity team\nPublicity prepares pricing announcements after verification\nThe Secretary records the arrangements in proposals and reports\nFee tracking and unified receipt upload functions already exist on the proposed website and are not urgent","textPreview":"Establish a treasury policy and supporting documentation for every event | Maintain complete financial records for events and weekly clas...","textChars":443,"textLines":6,"bbox":[110,290,920,625]}
+{"kind":"image","id":"im/n6povy1c","slide":6,"name":"","geometry":"rect","alt":"Subtle white geometric background from the supplied reference presentation","bbox":[0,0,1920,1080]}
+{"kind":"image","id":"im/o7ypoj2x","slide":6,"name":"","geometry":"rect","alt":"Warm dotted texture from the supplied reference presentation","bbox":[1600,790,330,330]}
+{"kind":"image","id":"im/9876xoji","slide":6,"name":"","geometry":"rect","alt":"UTAR Yoga Society logo from the supplied reference presentation","bbox":[45,25,78,78]}
+{"kind":"image","id":"im/q9w3u50v","slide":6,"name":"","geometry":"ellipse","alt":"Financial yoga illustration from the supplied reference presentation","bbox":[1160,290,560,560]}
+{"kind":"notes","id":"nt/8979dm","slide":6,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, Item 4. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}
+{"kind":"slide","id":"sl/wzuduf","slide":7,"title":"UTAR SL YOGA CLUB","textShapes":11}
+{"kind":"shape","id":"sh/29kvad8z","slide":7,"name":"club-label-band","bbox":[137,41,255,42]}
+{"kind":"textbox","id":"sh/3atwjypk","slide":7,"name":"club-label","text":"UTAR SL YOGA CLUB","textPreview":"UTAR SL YOGA CLUB","textChars":17,"textLines":1,"bbox":[157,45,220,30]}
+{"kind":"textbox","id":"sh/ov2dc3qp","slide":7,"name":"section-number","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1650,46,90,32]}
+{"kind":"textbox","id":"sh/pwbel87a","slide":7,"name":"slide-title","text":"Student Instructor Programme","textPreview":"Student Instructor Programme","textChars":28,"textLines":1,"bbox":[110,120,1560,105]}
+{"kind":"shape","id":"sh/idgvy98f","slide":7,"name":"title-rule","bbox":[110,222,118,8]}
+{"kind":"textbox","id":"sh/jepc7ep0","slide":7,"name":"footer-source","text":"EXCO MEETING  •  11 SEPTEMBER 2026","textPreview":"EXCO MEETING  •  11 SEPTEMBER 2026","textChars":34,"textLines":1,"bbox":[110,1012,620,28]}
+{"kind":"textbox","id":"sh/3m1wnyls","slide":7,"name":"folio","text":"7","textPreview":"7","textChars":1,"textLines":1,"bbox":[1774,1010,52,28]}
+{"kind":"textbox","id":"sh/5ojep83y","slide":7,"text":"ELIGIBILITY","textPreview":"ELIGIBILITY","textChars":11,"textLines":1,"bbox":[110,280,450,40]}
+{"kind":"textbox","id":"sh/4nadw3md","slide":7,"text":"More than two semester-based Certificates of Completion\nOr one yearly Certificate of Completion if the yearly system is adopted\nSemester certificates apply only to long semesters of about 14 weeks","textPreview":"More than two semester-based Certificates of Completion | Or one yearly Certificate of Completion if the yearly system is adopted | Semes...","textChars":196,"textLines":3,"bbox":[110,335,820,280]}
+{"kind":"textbox","id":"sh/vyhwjylw","slide":7,"text":"BENEFIT UNDER REVIEW","textPreview":"BENEFIT UNDER REVIEW","textChars":20,"textLines":1,"bbox":[110,655,520,40]}
+{"kind":"textbox","id":"sh/ux8vqt4b","slide":7,"text":"Fee waiver for student instructors who maintain more than 80% class attendance","textPreview":"Fee waiver for student instructors who maintain more than 80% class attendance","textChars":78,"textLines":1,"bbox":[110,710,820,100]}
+{"kind":"textbox","id":"sh/hkzel83m","slide":7,"text":"PROPOSED SIGNATORIES","textPreview":"PROPOSED SIGNATORIES","textChars":20,"textLines":1,"bbox":[1070,780,540,40]}
+{"kind":"textbox","id":"sh/gjqds3m1","slide":7,"text":"Instructor Ms Chew  ·  Club Auditor  ·  Club Chairperson  ·  Ms Belinda, Ms Heng or Core Advisor","textPreview":"Instructor Ms Chew  ·  Club Auditor  ·  Club Chairperson  ·  Ms Belinda, Ms Heng or Core Advisor","textChars":96,"textLines":1,"bbox":[1070,835,710,105]}
+{"kind":"image","id":"im/qp4369cj","slide":7,"name":"","geometry":"rect","alt":"Subtle white geometric background from the supplied reference presentation","bbox":[0,0,1920,1080]}
+{"kind":"image","id":"im/dcfm1oba","slide":7,"name":"","geometry":"rect","alt":"Warm dotted texture from the supplied reference presentation","bbox":[1600,790,330,330]}
+{"kind":"image","id":"im/cb6l8jup","slide":7,"name":"","geometry":"rect","alt":"UTAR Yoga Society logo from the supplied reference presentation","bbox":[45,25,78,78]}
+{"kind":"image","id":"im/pg3qtwzq","slide":7,"name":"","geometry":"roundRect","alt":"Student yoga group illustration from the supplied reference presentation","bbox":[1070,280,720,460]}
+{"kind":"notes","id":"nt/wzuduf","slide":7,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, Item 5. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}
+{"kind":"slide","id":"sl/xj86sw","slide":8,"title":"UTAR SL YOGA CLUB","textShapes":9}
+{"kind":"shape","id":"sh/dsvmpwbe","slide":8,"name":"club-label-band","bbox":[137,41,255,42]}
+{"kind":"textbox","id":"sh/c7mlgrat","slide":8,"name":"club-label","text":"UTAR SL YOGA CLUB","textPreview":"UTAR SL YOGA CLUB","textChars":17,"textLines":1,"bbox":[157,45,220,30]}
+{"kind":"textbox","id":"sh/r6d4nmt8","slide":8,"name":"section-number","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1650,46,90,32]}
+{"kind":"textbox","id":"sh/q543ehsn","slide":8,"name":"slide-title","text":"Publicity guidelines and controls","textPreview":"Publicity guidelines and controls","textChars":33,"textLines":1,"bbox":[110,120,1560,105]}
+{"kind":"shape","id":"sh/twbmdsba","slide":8,"name":"title-rule","bbox":[110,222,118,8]}
+{"kind":"textbox","id":"sh/sb2l4nap","slide":8,"name":"footer-source","text":"EXCO MEETING  •  11 SEPTEMBER 2026","textPreview":"EXCO MEETING  •  11 SEPTEMBER 2026","textChars":34,"textLines":1,"bbox":[110,1012,620,28]}
+{"kind":"textbox","id":"sh/mhkje5g3","slide":8,"name":"folio","text":"8","textPreview":"8","textChars":1,"textLines":1,"bbox":[1774,1010,52,28]}
+{"kind":"textbox","id":"sh/oj21gfyt","slide":8,"text":"PUBLICATION SCOPE","textPreview":"PUBLICATION SCOPE","textChars":17,"textLines":1,"bbox":[110,280,550,40]}
+{"kind":"textbox","id":"sh/9kb2pkfe","slide":8,"text":"Recruitment Drive and free yoga classes\nWeekly classes and certification\nMembers’ Night, lucky draw and merchandise\nMeditation and other approved programmes","textPreview":"Recruitment Drive and free yoga classes | Weekly classes and certification | Members’ Night, lucky draw and merchandise | Meditation and ...","textChars":156,"textLines":4,"bbox":[110,335,850,310]}
+{"kind":"textbox","id":"sh/al4jipgz","slide":8,"text":"RELEASE CONTROL","textPreview":"RELEASE CONTROL","textChars":15,"textLines":1,"bbox":[110,680,550,40]}
+{"kind":"textbox","id":"sh/bmdkruxk","slide":8,"text":"Verify dates, venues, fees, payment instructions and participation requirements with the Secretary and Treasurer\nUpdate materials when confirmed arrangements change\nArchive posters, captions, announcements and registration links","textPreview":"Verify dates, venues, fees, payment instructions and participation requirements with the Secretary and Treasurer | Update materials when ...","textChars":228,"textLines":3,"bbox":[110,735,900,230]}
+{"kind":"image","id":"im/pozy58zq","slide":8,"name":"","geometry":"rect","alt":"Subtle white geometric background from the supplied reference presentation","bbox":[0,0,1920,1080]}
+{"kind":"image","id":"im/2l8fatgf","slide":8,"name":"","geometry":"rect","alt":"Warm dotted texture from the supplied reference presentation","bbox":[1600,790,330,330]}
+{"kind":"image","id":"im/nmhw3yhk","slide":8,"name":"","geometry":"rect","alt":"UTAR Yoga Society logo from the supplied reference presentation","bbox":[45,25,78,78]}
+{"kind":"image","id":"im/c7ehg32h","slide":8,"name":"","geometry":"roundRect","alt":"Communications planning photograph from the supplied reference presentation","bbox":[1120,285,660,590]}
+{"kind":"notes","id":"nt/xj86sw","slide":8,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, Item 6. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}
+{"kind":"slide","id":"sl/pog36u","slide":9,"title":"UTAR SL YOGA CLUB","textShapes":13}
+{"kind":"shape","id":"sh/lwrip8ne","slide":9,"name":"club-label-band","bbox":[137,41,255,42]}
+{"kind":"textbox","id":"sh/kbi1w3mt","slide":9,"name":"club-label","text":"UTAR SL YOGA CLUB","textPreview":"UTAR SL YOGA CLUB","textChars":17,"textLines":1,"bbox":[157,45,220,30]}
+{"kind":"textbox","id":"sh/ja90ny58","slide":9,"name":"section-number","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1650,46,90,32]}
+{"kind":"textbox","id":"sh/y90jut43","slide":9,"name":"slide-title","text":"Weekly class certification policy","textPreview":"Weekly class certification policy","textChars":33,"textLines":1,"bbox":[110,120,1560,105]}
+{"kind":"shape","id":"sh/x87iloni","slide":9,"name":"title-rule","bbox":[110,222,118,8]}
+{"kind":"textbox","id":"sh/w7y1s3mx","slide":9,"name":"footer-source","text":"EXCO MEETING  •  11 SEPTEMBER 2026","textPreview":"EXCO MEETING  •  11 SEPTEMBER 2026","textChars":34,"textLines":1,"bbox":[110,1012,620,28]}
+{"kind":"textbox","id":"sh/qp83qdcv","slide":9,"name":"folio","text":"9","textPreview":"9","textChars":1,"textLines":1,"bbox":[1774,1010,52,28]}
+{"kind":"textbox","id":"sh/crqlsnu1","slide":9,"text":"80%","textPreview":"80%","textChars":3,"textLines":1,"bbox":[110,292,270,120]}
+{"kind":"textbox","id":"sh/dsz21sbm","slide":9,"text":"proposed attendance threshold for a semester-based Certificate of Completion (结业证书)","textPreview":"proposed attendance threshold for a semester-based Certificate of Completion (结业证书)","textChars":83,"textLines":1,"bbox":[375,305,730,110]}
+{"kind":"textbox","id":"sh/21o3mdcz","slide":9,"text":"SEMESTER MODEL","textPreview":"SEMESTER MODEL","textChars":14,"textLines":1,"bbox":[110,485,500,40]}
+{"kind":"textbox","id":"sh/32xkvyd4","slide":9,"text":"Approximately 14 hours or 14 class days during a long semester\nShort-semester attendance may accumulate towards the long-semester requirement","textPreview":"Approximately 14 hours or 14 class days during a long semester | Short-semester attendance may accumulate towards the long-semester requi...","textChars":141,"textLines":2,"bbox":[110,540,930,185]}
+{"kind":"textbox","id":"sh/43qlo3up","slide":9,"text":"ALTERNATIVE YEARLY MODEL","textPreview":"ALTERNATIVE YEARLY MODEL","textChars":24,"textLines":1,"bbox":[110,755,600,40]}
+{"kind":"textbox","id":"sh/poz2x8va","slide":9,"text":"Approximately 35 hours, 35 days or 35 yoga practice classes","textPreview":"Approximately 35 hours, 35 days or 35 yoga practice classes","textChars":59,"textLines":1,"bbox":[110,810,800,70]}
+{"kind":"textbox","id":"sh/uxo3itcn","slide":9,"text":"STILL TO CONFIRM","textPreview":"STILL TO CONFIRM","textChars":16,"textLines":1,"bbox":[1200,745,500,40]}
+{"kind":"textbox","id":"sh/fyxkryd8","slide":9,"text":"Authorised signatories and permitted Yoga Club, DSA and UTAR logos","textPreview":"Authorised signatories and permitted Yoga Club, DSA and UTAR logos","textChars":66,"textLines":1,"bbox":[1200,800,560,100]}
+{"kind":"image","id":"im/h8fehoze","slide":9,"name":"","geometry":"rect","alt":"Subtle white geometric background from the supplied reference presentation","bbox":[0,0,1920,1080]}
+{"kind":"image","id":"im/u5of690n","slide":9,"name":"","geometry":"rect","alt":"Warm dotted texture from the supplied reference presentation","bbox":[1600,790,330,330]}
+{"kind":"image","id":"im/f6xwfeh8","slide":9,"name":"","geometry":"rect","alt":"UTAR Yoga Society logo from the supplied reference presentation","bbox":[45,25,78,78]}
+{"kind":"image","id":"im/gre50jil","slide":9,"name":"","geometry":"roundRect","alt":"Yoga certificates from the supplied reference presentation","bbox":[1210,275,520,420]}
+{"kind":"notes","id":"nt/pog36u","slide":9,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, Item 7. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}
+{"kind":"slide","id":"sl/bsg90z","slide":10,"title":"UTAR SL YOGA CLUB","textShapes":12}
+{"kind":"shape","id":"sh/obmtwrix","slide":10,"name":"club-label-band","bbox":[137,41,255,42]}
+{"kind":"textbox","id":"sh/9cvupwj2","slide":10,"name":"club-label","text":"UTAR SL YOGA CLUB","textPreview":"UTAR SL YOGA CLUB","textChars":17,"textLines":1,"bbox":[157,45,220,30]}
+{"kind":"textbox","id":"sh/mp4bu10r","slide":10,"name":"section-number","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1650,46,90,32]}
+{"kind":"textbox","id":"sh/nadcn61c","slide":10,"name":"slide-title","text":"Higher committee recruitment","textPreview":"Higher committee recruitment","textChars":28,"textLines":1,"bbox":[110,120,1560,105]}
+{"kind":"shape","id":"sh/87qd8vi1","slide":10,"name":"title-rule","bbox":[110,222,118,8]}
+{"kind":"textbox","id":"sh/t8zu10jm","slide":10,"name":"footer-source","text":"EXCO MEETING  •  11 SEPTEMBER 2026","textPreview":"EXCO MEETING  •  11 SEPTEMBER 2026","textChars":34,"textLines":1,"bbox":[110,1012,620,28]}
+{"kind":"textbox","id":"sh/t832pw7y","slide":10,"name":"folio","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1774,1010,52,28]}
+{"kind":"textbox","id":"sh/r6lkn6ps","slide":10,"text":"PRIORITY VACANCIES","textPreview":"PRIORITY VACANCIES","textChars":18,"textLines":1,"bbox":[110,285,600,40]}
+{"kind":"textbox","id":"sh/6lcju18n","slide":10,"text":"VICE CHAIRPERSON","textPreview":"VICE CHAIRPERSON","textChars":16,"textLines":1,"bbox":[110,360,650,68]}
+{"kind":"textbox","id":"sh/5kj2lw72","slide":10,"text":"Identify a suitable current committee member with a strong student network.","textPreview":"Identify a suitable current committee member with a strong student network.","textChars":75,"textLines":1,"bbox":[110,435,820,90]}
+{"kind":"textbox","id":"sh/4ja1srqh","slide":10,"text":"PUBLICITY TEAM","textPreview":"PUBLICITY TEAM","textChars":14,"textLines":1,"bbox":[110,585,650,68]}
+{"kind":"textbox","id":"sh/ji1kjmpw","slide":10,"text":"Recruit one additional member to support the coming programme.","textPreview":"Recruit one additional member to support the coming programme.","textChars":62,"textLines":1,"bbox":[110,660,820,90]}
+{"kind":"textbox","id":"sh/ihsjqh8b","slide":10,"text":"RECRUITMENT ROUTE","textPreview":"RECRUITMENT ROUTE","textChars":17,"textLines":1,"bbox":[110,820,500,40]}
+{"kind":"textbox","id":"sh/pgn2xg76","slide":10,"text":"Committee referrals and suitable EA appointments for experience-based instructor, committee and event-support roles","textPreview":"Committee referrals and suitable EA appointments for experience-based instructor, committee and event-support roles","textChars":115,"textLines":1,"bbox":[110,870,900,85]}
+{"kind":"image","id":"im/8bed0f2l","slide":10,"name":"","geometry":"rect","alt":"Subtle white geometric background from the supplied reference presentation","bbox":[0,0,1920,1080]}
+{"kind":"image","id":"im/na5c7al0","slide":10,"name":"","geometry":"rect","alt":"Warm dotted texture from the supplied reference presentation","bbox":[1600,790,330,330]}
+{"kind":"image","id":"im/m9wvy5kf","slide":10,"name":"","geometry":"rect","alt":"UTAR Yoga Society logo from the supplied reference presentation","bbox":[45,25,78,78]}
+{"kind":"image","id":"im/n6h8vu90","slide":10,"name":"","geometry":"ellipse","alt":"Yoga class community photograph from the supplied reference presentation","bbox":[1110,270,650,650]}
+{"kind":"notes","id":"nt/bsg90z","slide":10,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, Item 8. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}
+{"kind":"slide","id":"sl/33fd3q","slide":11,"title":"UTAR SL YOGA CLUB","textShapes":13}
+{"kind":"shape","id":"sh/3218zql0","slide":11,"name":"club-label-band","bbox":[137,41,255,42]}
+{"kind":"textbox","id":"sh/21s76l4f","slide":11,"name":"club-label","text":"UTAR SL YOGA CLUB","textPreview":"UTAR SL YOGA CLUB","textChars":17,"textLines":1,"bbox":[157,45,220,30]}
+{"kind":"textbox","id":"sh/p4jq1036","slide":11,"name":"section-number","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1650,46,90,32]}
+{"kind":"textbox","id":"sh/o3ap8vml","slide":11,"name":"slide-title","text":"New Yoga Club merchandise","textPreview":"New Yoga Club merchandise","textChars":25,"textLines":1,"bbox":[110,120,1560,105]}
+{"kind":"shape","id":"sh/feh8v6l4","slide":11,"name":"title-rule","bbox":[110,222,118,8]}
+{"kind":"textbox","id":"sh/ed872l4j","slide":11,"name":"footer-source","text":"EXCO MEETING  •  11 SEPTEMBER 2026","textPreview":"EXCO MEETING  •  11 SEPTEMBER 2026","textChars":34,"textLines":1,"bbox":[110,1012,620,28]}
+{"kind":"textbox","id":"sh/cj6tkne9","slide":11,"name":"folio","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1774,1010,52,28]}
+{"kind":"textbox","id":"sh/qhobidw3","slide":11,"text":"HIGHER-END","textPreview":"HIGHER-END","textChars":10,"textLines":1,"bbox":[110,280,420,40]}
+{"kind":"textbox","id":"sh/bixsbido","slide":11,"text":"Logo cape or cloak  ·  Yoga mat  ·  Yoga bricks","textPreview":"Logo cape or cloak  ·  Yoga mat  ·  Yoga bricks","textChars":47,"textLines":1,"bbox":[110,330,970,70]}
+{"kind":"textbox","id":"sh/of6tg3ex","slide":11,"text":"MIDDLE-RANGE","textPreview":"MIDDLE-RANGE","textChars":12,"textLines":1,"bbox":[110,465,420,40]}
+{"kind":"textbox","id":"sh/pgfa98vi","slide":11,"text":"Yoga brick  ·  T-shirt  ·  Hat  ·  Stretching strap","textPreview":"Yoga brick  ·  T-shirt  ·  Hat  ·  Stretching strap","textChars":51,"textLines":1,"bbox":[110,515,970,70]}
+{"kind":"textbox","id":"sh/2dobetwr","slide":11,"text":"LOWER-COST","textPreview":"LOWER-COST","textChars":10,"textLines":1,"bbox":[110,650,420,40]}
+{"kind":"textbox","id":"sh/3exs7ydc","slide":11,"text":"Keychain  ·  Lanyard  ·  Rubber wristband  ·  Other suitable small items","textPreview":"Keychain  ·  Lanyard  ·  Rubber wristband  ·  Other suitable small items","textChars":72,"textLines":1,"bbox":[110,700,980,85]}
+{"kind":"textbox","id":"sh/8bats7u1","slide":11,"text":"Decision","textPreview":"Decision","textChars":8,"textLines":1,"bbox":[110,855,220,45]}
+{"kind":"textbox","id":"sh/9cjulcvm","slide":11,"text":"Every committee member selects at least three preferred items. Publicity designs the shortlist, the Secretary updates the proposal and the Treasurer confirms supplier pricing and pre-funding.","textPreview":"Every committee member selects at least three preferred items. Publicity designs the shortlist, the Secretary updates the proposal and th...","textChars":191,"textLines":1,"bbox":[310,848,1060,115]}
+{"kind":"image","id":"im/nels3e90","slide":11,"name":"","geometry":"rect","alt":"Subtle white geometric background from the supplied reference presentation","bbox":[0,0,1920,1080]}
+{"kind":"image","id":"im/ofutwjql","slide":11,"name":"","geometry":"rect","alt":"Warm dotted texture from the supplied reference presentation","bbox":[1600,790,330,330]}
+{"kind":"image","id":"im/pg3a5or6","slide":11,"name":"","geometry":"rect","alt":"UTAR Yoga Society logo from the supplied reference presentation","bbox":[45,25,78,78]}
+{"kind":"image","id":"im/ixs3qd47","slide":11,"name":"","geometry":"roundRect","alt":"Yoga merchandise concepts from the supplied reference presentation","bbox":[1230,250,590,620]}
+{"kind":"notes","id":"nt/33fd3q","slide":11,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, Item 9. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}
+{"kind":"slide","id":"sl/dse0wt","slide":12,"title":"UTAR SL YOGA CLUB","textShapes":11}
+{"kind":"shape","id":"sh/6pcrqlo3","slide":12,"name":"club-label-band","bbox":[137,41,255,42]}
+{"kind":"textbox","id":"sh/7ql8zqpo","slide":12,"name":"club-label","text":"UTAR SL YOGA CLUB","textPreview":"UTAR SL YOGA CLUB","textChars":17,"textLines":1,"bbox":[157,45,220,30]}
+{"kind":"textbox","id":"sh/8ru9sv69","slide":12,"name":"section-number","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1650,46,90,32]}
+{"kind":"textbox","id":"sh/tsna107u","slide":12,"name":"slide-title","text":"Members’ Night and lucky draw","textPreview":"Members’ Night and lucky draw","textChars":29,"textLines":1,"bbox":[110,120,1560,105]}
+{"kind":"shape","id":"sh/qlgr25on","slide":12,"name":"title-rule","bbox":[110,222,118,8]}
+{"kind":"textbox","id":"sh/rmpsba5s","slide":12,"name":"footer-source","text":"EXCO MEETING  •  11 SEPTEMBER 2026","textPreview":"EXCO MEETING  •  11 SEPTEMBER 2026","textChars":34,"textLines":1,"bbox":[110,1012,620,28]}
+{"kind":"textbox","id":"sh/3m1sz21w","slide":12,"name":"folio","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1774,1010,52,28]}
+{"kind":"textbox","id":"sh/ilsr6x0b","slide":12,"text":"PURPOSE","textPreview":"PURPOSE","textChars":7,"textLines":1,"bbox":[110,295,300,46]}
+{"kind":"textbox","id":"sh/583a1cj2","slide":12,"text":"Recognise regular June-class participants and welcome new club members.","textPreview":"Recognise regular June-class participants and welcome new club members.","textChars":71,"textLines":1,"bbox":[110,355,870,110]}
+{"kind":"textbox","id":"sh/47u987ih","slide":12,"text":"POSSIBLE MEMBER BENEFITS","textPreview":"POSSIBLE MEMBER BENEFITS","textChars":24,"textLines":1,"bbox":[110,545,620,40]}
+{"kind":"textbox","id":"sh/rals3218","slide":12,"text":"Free food or health-oriented gifts\nSelected club merchandise in the lucky draw pool\nFeedback survey and promotion of upcoming yoga classes","textPreview":"Free food or health-oriented gifts | Selected club merchandise in the lucky draw pool | Feedback survey and promotion of upcoming yoga cl...","textChars":138,"textLines":3,"bbox":[110,600,860,260]}
+{"kind":"shape","id":"sh/q9crax0n","slide":12,"name":"budget-field","bbox":[1130,300,550,550]}
+{"kind":"textbox","id":"sh/dc3a5cjy","slide":12,"text":"BUDGET CONDITION","textPreview":"BUDGET CONDITION","textChars":16,"textLines":1,"bbox":[1190,380,430,45]}
+{"kind":"textbox","id":"sh/sbu9c7it","slide":12,"text":"Club funding for the lucky draw requires budget review and approval before commitment.","textPreview":"Club funding for the lucky draw requires budget review and approval before commitment.","textChars":86,"textLines":1,"bbox":[1190,465,430,210]}
+{"kind":"image","id":"im/a1sz69sn","slide":12,"name":"","geometry":"rect","alt":"Subtle white geometric background from the supplied reference presentation","bbox":[0,0,1920,1080]}
+{"kind":"image","id":"im/x43ih4re","slide":12,"name":"","geometry":"rect","alt":"Warm dotted texture from the supplied reference presentation","bbox":[1600,790,330,330]}
+{"kind":"image","id":"im/w3uh8zat","slide":12,"name":"","geometry":"rect","alt":"UTAR Yoga Society logo from the supplied reference presentation","bbox":[45,25,78,78]}
+{"kind":"notes","id":"nt/dse0wt","slide":12,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, Items 2.3 and 10. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}
+{"kind":"slide","id":"sl/0g46bx","slide":13,"title":"UTAR SL YOGA CLUB","textShapes":9}
+{"kind":"shape","id":"sh/0f250ryt","slide":13,"name":"club-label-band","bbox":[137,41,255,42]}
+{"kind":"textbox","id":"sh/1gb6twfe","slide":13,"name":"club-label","text":"UTAR SL YOGA CLUB","textPreview":"UTAR SL YOGA CLUB","textChars":17,"textLines":1,"bbox":[157,45,220,30]}
+{"kind":"textbox","id":"sh/ed0ny1gn","slide":13,"name":"section-number","text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1650,46,90,32]}
+{"kind":"textbox","id":"sh/zet4r6x8","slide":13,"name":"slide-title","text":"Meditation and practice-class pilot","textPreview":"Meditation and practice-class pilot","textChars":35,"textLines":1,"bbox":[110,120,1560,105]}
+{"kind":"shape","id":"sh/oj254byp","slide":13,"name":"title-rule","bbox":[110,222,118,8]}
+{"kind":"textbox","id":"sh/9kb6xgfa","slide":13,"name":"footer-source","text":"EXCO MEETING  •  11 SEPTEMBER 2026","textPreview":"EXCO MEETING  •  11 SEPTEMBER 2026","textChars":34,"textLines":1,"bbox":[110,1012,620,28]}
+{"kind":"textbox","id":"sh/xs3i9o7y","slide":13,"name":"folio","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1774,1010,52,28]}
+{"kind":"textbox","id":"sh/vql07yp8","slide":13,"text":"PILOT FORMAT","textPreview":"PILOT FORMAT","textChars":12,"textLines":1,"bbox":[110,280,520,40]}
+{"kind":"textbox","id":"sh/apczet8n","slide":13,"text":"Meditation, additional yoga practice, or both\nOne selected day or a weekly format\nPotentially delivered fully by student instructors\nLocation and participation fee remain to be confirmed","textPreview":"Meditation, additional yoga practice, or both | One selected day or a weekly format | Potentially delivered fully by student instructors ...","textChars":186,"textLines":4,"bbox":[110,335,850,330]}
+{"kind":"textbox","id":"sh/5wnid87a","slide":13,"text":"SERVICE CERTIFICATION","textPreview":"SERVICE CERTIFICATION","textChars":21,"textLines":1,"bbox":[110,720,600,40]}
+{"kind":"textbox","id":"sh/kve1k3qp","slide":13,"text":"Yearly certificates may record the number of events, total service hours and the individual’s role in instruction, organisation or publicity.","textPreview":"Yearly certificates may record the number of events, total service hours and the individual’s role in instruction, organisation or public...","textChars":141,"textLines":1,"bbox":[110,775,880,145]}
+{"kind":"image","id":"im/g3m5sr61","slide":13,"name":"","geometry":"rect","alt":"Subtle white geometric background from the supplied reference presentation","bbox":[0,0,1920,1080]}
+{"kind":"image","id":"im/f2d4zm5g","slide":13,"name":"","geometry":"rect","alt":"Warm dotted texture from the supplied reference presentation","bbox":[1600,790,330,330]}
+{"kind":"image","id":"im/u14nqhov","slide":13,"name":"","geometry":"rect","alt":"UTAR Yoga Society logo from the supplied reference presentation","bbox":[45,25,78,78]}
+{"kind":"image","id":"im/r6x4fyt0","slide":13,"name":"","geometry":"roundRect","alt":"Meditation class photograph from the supplied reference presentation","bbox":[1090,265,700,650]}
+{"kind":"notes","id":"nt/0g46bx","slide":13,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, Item 12. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}
+{"kind":"slide","id":"sl/ahuu2z","slide":14,"title":"UTAR SL YOGA CLUB","textShapes":15}
+{"kind":"shape","id":"sh/q9kzuxor","slide":14,"name":"club-label-band","bbox":[137,41,255,42]}
+{"kind":"textbox","id":"sh/ratgn2pc","slide":14,"name":"club-label","text":"UTAR SL YOGA CLUB","textPreview":"UTAR SL YOGA CLUB","textChars":17,"textLines":1,"bbox":[157,45,220,30]}
+{"kind":"textbox","id":"sh/cv2hwn6x","slide":14,"name":"section-number","text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1650,46,90,32]}
+{"kind":"textbox","id":"sh/dwvyps7i","slide":14,"name":"slide-title","text":"Open matters and governance checks","textPreview":"Open matters and governance checks","textChars":34,"textLines":1,"bbox":[110,120,1560,105]}
+{"kind":"shape","id":"sh/25kzqdov","slide":14,"name":"title-rule","bbox":[110,222,118,8]}
+{"kind":"textbox","id":"sh/36tgjipg","slide":14,"name":"footer-source","text":"EXCO MEETING  •  11 SEPTEMBER 2026","textPreview":"EXCO MEETING  •  11 SEPTEMBER 2026","textChars":34,"textLines":1,"bbox":[110,1012,620,28]}
+{"kind":"textbox","id":"sh/fud4zm1g","slide":14,"name":"folio","text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1774,1010,52,28]}
+{"kind":"textbox","id":"sh/ut43qhkv","slide":14,"text":"YOGA DAY","textPreview":"YOGA DAY","textChars":8,"textLines":1,"bbox":[110,300,310,38]}
+{"kind":"textbox","id":"sh/hgvm1cj6","slide":14,"text":"Consult Ms Belinda on information and approval requirements for a larger-scale event.","textPreview":"Consult Ms Belinda on information and approval requirements for a larger-scale event.","textChars":85,"textLines":1,"bbox":[420,298,1180,62]}
+{"kind":"textbox","id":"sh/gvmls721","slide":14,"text":"ATTENDANCE","textPreview":"ATTENDANCE","textChars":10,"textLines":1,"bbox":[110,430,310,38]}
+{"kind":"textbox","id":"sh/3id43m1c","slide":14,"text":"Agree an improved recording method for weekly classes and other activities.","textPreview":"Agree an improved recording method for weekly classes and other activities.","textChars":75,"textLines":1,"bbox":[420,428,1180,62]}
+{"kind":"textbox","id":"sh/2h4nuhkr","slide":14,"text":"WEBSITE","textPreview":"WEBSITE","textChars":7,"textLines":1,"bbox":[110,560,310,38]}
+{"kind":"textbox","id":"sh/pkfm5wji","slide":14,"text":"Determine which record, fee and receipt functions should move into the proposed club website.","textPreview":"Determine which record, fee and receipt functions should move into the proposed club website.","textChars":93,"textLines":1,"bbox":[420,558,1180,62]}
+{"kind":"textbox","id":"sh/4jm5wr2x","slide":14,"text":"COVERAGE","textPreview":"COVERAGE","textChars":8,"textLines":1,"bbox":[110,690,310,38]}
+{"kind":"textbox","id":"sh/jmt4r218","slide":14,"text":"Identify any additional activity, meeting or matter requiring a proposal or semester report.","textPreview":"Identify any additional activity, meeting or matter requiring a proposal or semester report.","textChars":92,"textLines":1,"bbox":[420,688,1180,62]}
+{"kind":"textbox","id":"sh/yl03ixkn","slide":14,"text":"FEEDBACK","textPreview":"FEEDBACK","textChars":8,"textLines":1,"bbox":[110,820,310,38]}
+{"kind":"textbox","id":"sh/mh87q54b","slide":14,"text":"Invite final suggestions and unresolved departmental concerns.","textPreview":"Invite final suggestions and unresolved departmental concerns.","textChars":62,"textLines":1,"bbox":[420,818,1180,62]}
+{"kind":"image","id":"im/u9wjmhsn","slide":14,"name":"","geometry":"rect","alt":"Subtle white geometric background from the supplied reference presentation","bbox":[0,0,1920,1080]}
+{"kind":"image","id":"im/hc72xcbe","slide":14,"name":"","geometry":"rect","alt":"Warm dotted texture from the supplied reference presentation","bbox":[1600,790,330,330]}
+{"kind":"image","id":"im/gby1orat","slide":14,"name":"","geometry":"rect","alt":"UTAR Yoga Society logo from the supplied reference presentation","bbox":[45,25,78,78]}
+{"kind":"notes","id":"nt/ahuu2z","slide":14,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, Items 3.9–3.12 and 11. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}
+{"kind":"slide","id":"sl/fpoa8j","slide":15,"title":"BEFORE WE CLOSE","textShapes":4}
+{"kind":"textbox","id":"sh/8n65ojql","slide":15,"text":"BEFORE WE CLOSE","textPreview":"BEFORE WE CLOSE","textChars":15,"textLines":1,"bbox":[120,145,800,60]}
+{"kind":"textbox","id":"sh/vqx4jepc","slide":15,"text":"Confirm the decision,\nowner and due date","textPreview":"Confirm the decision, | owner and due date","textChars":40,"textLines":2,"bbox":[120,250,990,210]}
+{"kind":"textbox","id":"sh/uponq98r","slide":15,"text":"Secretary updates the proposal and report checklist\nDepartments verify their assigned actions\nAny approval dependency is recorded explicitly\nMeeting minutes capture the final decisions","textPreview":"Secretary updates the proposal and report checklist | Departments verify their assigned actions | Any approval dependency is recorded exp...","textChars":184,"textLines":4,"bbox":[120,565,990,330]}
+{"kind":"textbox","id":"sh/hcfmlo72","slide":15,"text":"UTAR SL YOGA CLUB  •  SUNGAI LONG CAMPUS","textPreview":"UTAR SL YOGA CLUB  •  SUNGAI LONG CAMPUS","textChars":40,"textLines":1,"bbox":[120,982,700,34]}
+{"kind":"image","id":"im/3u9gb29c","slide":15,"name":"","geometry":"rect","alt":"Warm dotted texture from the supplied reference presentation","bbox":[1290,-40,700,700]}
+{"kind":"image","id":"im/4vih47ax","slide":15,"name":"","geometry":"rect","alt":"UTAR Yoga Society logo from the supplied reference presentation","bbox":[1390,280,330,330]}
+{"kind":"notes","id":"nt/fpoa8j","slide":15,"text":"Content source: Yoga Club EXCO Meeting Agenda – 11 September 2026.md, meeting close and action-recording requirement derived from Items 3, 4, 6 and 11. Visual language and embedded imagery reference: 1nd EXCO proposal meeting 2026.pptx."}

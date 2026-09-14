@@ -1,0 +1,232 @@
+{
+  "schemaVersion": "presentation-finalization.v1",
+  "finalSha256": "2b60be128482abad430b7e845fac6d3d7e45105123454030d1f89b14095e49bf",
+  "byteCount": 19179525,
+  "packageIntegrity": {
+    "chart_count": 0,
+    "claim_boundary": "Structural package checks only; no slide text, notes, formulas, chart values, or native PowerPoint execution were inspected.",
+    "finding_count": 0,
+    "findings": [],
+    "notes_parts_skipped": 15,
+    "relationship_part_count": 35,
+    "slide_count": 15,
+    "status": "pass",
+    "exitCode": 0,
+    "findingCount": 0,
+    "warnings": []
+  },
+  "presentationLayout": {
+    "finding_count": 0,
+    "findings": [],
+    "font_policy": {
+      "checked_text_script_count": 194,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Poppins",
+        "Poppins Bold"
+      ],
+      "observed_font_use_counts": {
+        "Poppins": 92,
+        "Poppins Bold": 102
+      },
+      "passed": true,
+      "performed": true
+    },
+    "slide_count": 15,
+    "slide_size_in": [
+      20,
+      11.25
+    ],
+    "warning_count": 15,
+    "warnings": [
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "12",
+        "object_kind": "pic",
+        "slide": 1
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "24",
+        "object_kind": "pic",
+        "slide": 2
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "19",
+        "object_kind": "pic",
+        "slide": 3
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "17",
+        "object_kind": "pic",
+        "slide": 4
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "19",
+        "object_kind": "pic",
+        "slide": 5
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "14",
+        "object_kind": "pic",
+        "slide": 6
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "19",
+        "object_kind": "pic",
+        "slide": 7
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "17",
+        "object_kind": "pic",
+        "slide": 8
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "21",
+        "object_kind": "pic",
+        "slide": 9
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "20",
+        "object_kind": "pic",
+        "slide": 10
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "21",
+        "object_kind": "pic",
+        "slide": 11
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "19",
+        "object_kind": "pic",
+        "slide": 12
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "17",
+        "object_kind": "pic",
+        "slide": 13
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "22",
+        "object_kind": "pic",
+        "slide": 14
+      },
+      {
+        "kind": "object_outside_slide_boundary",
+        "object_id": "7",
+        "object_kind": "pic",
+        "slide": 15
+      }
+    ],
+    "exitCode": 0,
+    "findingCount": 0,
+    "fontPolicy": {
+      "checked_text_script_count": 194,
+      "native_font_rendering_verified": false,
+      "observed_font_families": [
+        "Poppins",
+        "Poppins Bold"
+      ],
+      "observed_font_use_counts": {
+        "Poppins": 92,
+        "Poppins Bold": 102
+      },
+      "passed": true,
+      "performed": true
+    }
+  },
+  "fontSelection": {
+    "basis": "reference",
+    "approvedFamilies": [
+      "Poppins",
+      "Poppins Bold"
+    ],
+    "scriptFonts": {},
+    "referenceSha256": "6777517c2c64f929ec57f8a5a00e5975a4eb5aff379c597c70d6907f4d85c803",
+    "referenceFontsVerifiedInEncodedText": true,
+    "checked_text_script_count": 194,
+    "native_font_rendering_verified": false,
+    "observed_font_families": [
+      "Poppins",
+      "Poppins Bold"
+    ],
+    "observed_font_use_counts": {
+      "Poppins": 92,
+      "Poppins Bold": 102
+    },
+    "passed": true,
+    "performed": true
+  },
+  "firstPartyImport": {
+    "performed": true,
+    "passed": true,
+    "slideCount": 15,
+    "sha256": "2b60be128482abad430b7e845fac6d3d7e45105123454030d1f89b14095e49bf",
+    "runtimeNodeModules": "/Users/susielim/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules",
+    "nodeExecutable": "/Users/susielim/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node"
+  },
+  "nativeTableArithmetic": {
+    "performed": true,
+    "checked_column_count": 0,
+    "checks": [],
+    "claim_boundary": "Displayed-value arithmetic with rounding tolerance; not source-data verification.",
+    "eligible_table_count": 0,
+    "finding_count": 0,
+    "findings": [],
+    "native_table_count": 0,
+    "passed": true,
+    "schema_version": "presentation-native-table-arithmetic.v1",
+    "skipped_tables": [],
+    "slide_count": 15,
+    "warning_count": 0,
+    "warnings": []
+  },
+  "nativeChartTitles": {
+    "performed": true,
+    "checks": [],
+    "finding_count": 0,
+    "findings": [],
+    "native_chart_count": 0,
+    "native_powerpoint_verified": false,
+    "passed": true,
+    "presentation_sha256": "2b60be128482abad430b7e845fac6d3d7e45105123454030d1f89b14095e49bf",
+    "schema_version": "presentation-native-chart-titles.v1",
+    "slide_count": 15,
+    "source_text_emitted": false,
+    "unresolved_linked_title_count": 0
+  },
+  "sourceDerivedPolicyFlags": [
+    "--expected-slide-size-emu",
+    "18288000,10287000",
+    "--validate-bullet-geometry",
+    "--validate-heading-fit",
+    "--cover-role",
+    "none",
+    "--expected-slide-count",
+    "15",
+    "--approved-font-family",
+    "Poppins",
+    "--approved-font-family",
+    "Poppins Bold"
+  ],
+  "nativeChartValidation": {
+    "detectedOwnerSlides": [],
+    "detectedChartCount": 0,
+    "targetApplication": "portable",
+    "sourceChartOwnersExplicitlyDeclared": true,
+    "validatorRan": false,
+    "passed": true
+  }
+}
