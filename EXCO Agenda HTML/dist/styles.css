@@ -189,10 +189,18 @@ th { color: var(--brown); background: var(--pale); font-size: .78rem; letter-spa
 .register-table th:nth-last-child(2), .register-table td:nth-last-child(2) { width: 12rem; }
 .register-table tbody tr:nth-child(even) { background: rgba(244,235,228,.42); }
 .register-table tbody tr:hover { background: rgba(221,193,167,.2); }
+.register-table tbody tr.due-today { background: #fff4c7; box-shadow: inset .3rem 0 #d6921e; }
+.register-table tbody tr.overdue { background: #fff0ee; box-shadow: inset .3rem 0 #b9584f; }
 .register-table th:first-child, .register-table td:first-child { position: sticky; left: 0; z-index: 1; background: var(--white); box-shadow: 8px 0 14px rgba(67,56,49,.06); }
 .register-table th:first-child { z-index: 2; background: var(--pale); }
 .register-table tbody tr:nth-child(even) td:first-child { background: #faf7f4; }
 .register-table tbody tr:hover td:first-child { background: #f6eee8; }
+.register-table tbody tr.due-today td:first-child { background: #fff4c7; }
+.register-table tbody tr.overdue td:first-child { background: #fff0ee; }
+.register-table tbody tr.due-today td:first-child::after,
+.register-table tbody tr.overdue td:first-child::after { display: block; width: max-content; margin-top: .45rem; padding: .18rem .45rem; border-radius: 999px; color: #fff; font-size: .68rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; }
+.register-table tbody tr.due-today td:first-child::after { content: 'Due today'; background: #a96900; }
+.register-table tbody tr.overdue td:first-child::after { content: 'Overdue'; background: #9b3f38; }
 td input, td select, td textarea { width: 100%; min-width: 7rem; border: 0; padding: .35rem; color: var(--ink); background: transparent; }
 td textarea { min-height: 4.8rem; resize: vertical; line-height: 1.4; }
 td input:focus, td select:focus, td textarea:focus { outline: 2px solid var(--tan); outline-offset: 2px; background: var(--white); }

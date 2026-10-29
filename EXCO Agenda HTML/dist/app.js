@@ -181,6 +181,30 @@ const statusOptions = ['Proposed', 'Not started', 'Drafting', 'In progress', 'In
 
 const cloneRows = rows => rows.map(row => ({ ...row }));
 
+const getLocalDateValue = () => {
+  const now = new Date();
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, '0');
+  const day = String(now.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+};
+
+const closedStatuses = new Set(['Approved', 'Published', 'Filed', 'Complete', 'Deferred']);
+
+const updateRowDateState = (row, record, fields) => {
+  row.classList.remove('due-today', 'overdue');
+  if (closedStatuses.has(record.status)) return;
+
+  const today = getLocalDateValue();
+  const dates = fields
+    .filter(field => field.type === 'date')
+    .map(field => record[field.key])
+    .filter(value => /^\d{4}-\d{2}-\d{2}$/.test(value || ''));
+
+  if (dates.some(value => value === today)) row.classList.add('due-today');
+  else if (dates.some(value => value < today)) row.classList.add('overdue');
+};
+
 const createRegister = ({ storageKey, rowsId, addId, fields, defaults }) => {
   const rowsContainer = document.querySelector(`#${rowsId}`);
   const addButton = document.querySelector(`#${addId}`);
@@ -214,7 +238,11 @@ const createRegister = ({ storageKey, rowsId, addId, fields, defaults }) => {
             option.selected = record[field.key] === label;
             control.append(option);
           });
-          control.addEventListener('change', () => { rows[index][field.key] = control.value; saveRows(); });
+          control.addEventListener('change', () => {
+            rows[index][field.key] = control.value;
+            saveRows();
+            updateRowDateState(row, rows[index], fields);
+          });
         } else if (field.type === 'textarea') {
           control = document.createElement('textarea');
           control.rows = 2;
@@ -224,12 +252,17 @@ const createRegister = ({ storageKey, rowsId, addId, fields, defaults }) => {
           control = document.createElement('input');
           control.type = field.type || 'text';
           control.value = record[field.key] ?? '';
-          control.addEventListener('input', () => { rows[index][field.key] = control.value; saveRows(); });
+          control.addEventListener('input', () => {
+            rows[index][field.key] = control.value;
+            saveRows();
+            updateRowDateState(row, rows[index], fields);
+          });
         }
         control.setAttribute('aria-label', `${field.label}, row ${index + 1}`);
         cell.append(control);
         row.append(cell);
       });
+      updateRowDateState(row, record, fields);
       rowsContainer.append(row);
     });
   };
